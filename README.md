@@ -1,26 +1,59 @@
-# Automated Dirt Removal System for Outsole of Footwear
+# Design and Development of an Automated Smart Sole Cleaner
 
 ## Project Overview
 
-This project presents the design and development of an automated footwear cleaning system designed to remove dirt and debris from the outsole before entering indoor spaces. The system utilizes a mechanically driven brush mechanism to improve cleanliness while minimizing manual effort.
+This project presents the complete product design and development of an automated Smart Sole Cleaner aimed at improving indoor hygiene by removing dirt, dust, and debris from footwear before entering homes, offices, hospitals, and commercial spaces.
 
-The project involved concept development, CAD modelling, mechanism design, component selection, and engineering validation to develop an efficient and user-friendly cleaning solution.
+The project follows a complete product development methodology, beginning with market research and customer need identification, followed by concept generation, Quality Function Deployment (QFD), concept evaluation, CAD modelling, and final design selection.
 
 ---
 
 ## Problem Statement
 
-Footwear often carries dirt, dust, and contaminants into indoor environments, resulting in hygiene issues and increased cleaning requirements. Existing cleaning methods require manual effort and are often inefficient. An automated cleaning system offers a convenient and hygienic alternative.
+Traditional doormats often fail to remove mud, dust, and debris effectively, especially during rainy conditions. As a result, dirt is carried indoors, increasing cleaning efforts and reducing hygiene.
+
+The objective was to design an automated alternative capable of efficiently cleaning footwear while remaining affordable, safe, and user-friendly.
 
 ---
 
 ## Objectives
 
-- Design an automated footwear cleaning mechanism.
-- Develop an efficient brush-based cleaning system.
-- Optimize the design for durability and ease of maintenance.
-- Improve user convenience through automation.
-- Validate the design through engineering calculations.
+- Design an automated footwear sole cleaning system.
+- Improve indoor cleanliness and hygiene.
+- Reduce manual cleaning effort.
+- Develop a compact and user-friendly product.
+- Validate design decisions using customer surveys and engineering design tools.
+- Optimize the design for manufacturability and cost.
+
+---
+
+
+## Product Development Process
+
+- Market Research
+- Customer Surveys
+- Need Identification
+- Product Specifications
+- Buyer Utility Map
+- Quality Function Deployment (House of Quality)
+- Concept Generation
+- Concept Selection
+- Concept Scoring
+- Final CAD Design
+
+---
+## Final Design 
+
+The final design selected (Model BE) combines:
+
+- Brush-based cleaning
+- Fan-assisted airflow
+- Heating coil
+- Integrated dust collector
+
+This configuration provided the best balance between cleaning performance, cost, safety, and ease of use.
+
+
 
 ---
 
@@ -32,21 +65,27 @@ Complete CAD models are available in the **CAD/** folder.
 
 ---
 
-## Engineering Drawings
+## Engineering Design Methodology
 
-Manufacturing drawings are available in the **Engineering_Drawings/** folder.
+This project applies structured product development techniques including:
 
----
+- Customer Need Analysis
+- Importance Rating
+- Product Specification Matrix
+- House of Quality (QFD)
+- Selection Matrix
+- Weighted Concept Scoring
 
-## Design Calculations
 
-Brush mechanism calculations, motor selection, load analysis, and structural validation are available in the **Calculations/** folder.
 
----
+## Technologies & Tools Used
 
-## Simulation
 
-Motion studies and design validation are available in the **Simulation/** folder.
+- Fusion 360
+- Product Design & Development
+- Market Research
+- QFD
+- Customer Requirement Analysis
 
 ---
 
